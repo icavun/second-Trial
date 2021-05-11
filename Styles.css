@@ -1,0 +1,222 @@
+body {
+  margin: 0 0 0 0;
+  text-align: center;
+  background-color: white;
+}
+
+
+h1 {
+  font-size: 50px;
+  color:#082640;
+  font-family: Montserrat, sans-serif;
+}
+
+p {
+  font-size: 20px;
+  color:#082640;
+  font-family: Montserrat, sans-serif;
+  width: 60%;
+  margin: 0 auto 0 auto;
+}
+
+h2{
+  color: #082640;
+  font-family: Montserrat, sans-serif;
+}
+
+h3{
+  color: #082640;
+  font-family: Montserrat, sans-serif;
+}
+
+
+hr {
+  color:#082640;
+  display: block;
+  border-style: dashed;
+  border-width: 12px 0 0 0;
+  width: 20%;
+  padding: 20px 0 20px 0;
+}
+
+.timesNR {
+  font-family:serif;
+color: white;
+margin:25px auto;
+}
+
+.topcloud {
+  display: inline-block;
+  margin: 0 auto;
+  width:30%;
+  position: absolute;
+  right: 13%;
+  top:25%;
+}
+
+.bottomcloud{
+  display: inline-block;
+  margin: 0 auto;
+  position: absolute;
+  top: 7%;
+  width: 40%;
+  left:7%;
+}
+
+.top-container {
+  margin: 0;
+  position: relative;
+}
+.intro{
+  line-height: 2;
+}
+.profile {
+  display: block;
+  position:relative;
+  top:100px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.second-top-container {
+  margin: 0;
+}
+
+.background2 {
+  width:100%;
+  position: relative;
+  display: inline-block;
+  Bottom: -160px;
+}
+
+.background3 {
+  width: 100%;
+  position: absolute;
+  top:95%;
+  left: 0;
+  z-index: 6;
+}
+
+.background4{
+  position: absolute;
+  width: 10%;
+  top:-40px;
+  left: 40px;
+}
+
+.seperator1 {
+  width:100%;
+  display:inline-block;
+  position: relative;
+  bottom: 10px;
+}
+
+.introduction1{
+  display: inline-block;
+  margin: 0 auto 0 auto;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top:25%;
+  font-weight: bold;
+  color: #082640;
+}
+.a {
+  color:#082640;
+}
+
+.b{
+  color: #082640;
+}
+
+.profile-pic{
+  width: 200px;
+  display: inline-block;
+}
+
+.skills{
+  text-align: center;
+  margin: auto;
+}
+
+.sidecharacter {
+  position: absolute;
+  width: 80%;
+  right: 0;
+  top:2300px;
+}
+
+.skill-row{
+  display: inline-block;
+  margin: 30px auto;
+  width: 77%;
+  text-align: left;
+  line-height: 1.5;
+
+}
+
+.skills-text{
+  margin: 30px 0 auto;
+  line-height: 1.5;
+}
+
+.myskills {
+  width: 25%;
+  float: left;
+  margin: 0 30px 0 30px;
+}
+.myskills2 {
+  width: 23%;
+  float:right;
+  margin: auto 30px auto 30px;
+}
+.redbutton {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 32px;
+   line-height: 32px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: 179px;
+   font-size: 24px;
+   font-weight: 900;
+   padding: 14px;
+   background-color: #082640;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 5px;
+}
+
+.redbutton:hover {
+   background: #F21B42;
+   border: solid #F21B42 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #082640;
+  display: block;
+  height: 90px;
+  padding: 30px;
+  margin: 0;
+}
+
+.footer-link {
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-stretch: expanded;
+  padding: 10px;
+}
+
+.footer-link:hover {
+  color: #F21B42;
+  font-size: 20px;
+}
